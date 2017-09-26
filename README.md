@@ -32,3 +32,8 @@ cd ../Wordcloud
 ```
 python3 Wordcloud.py
 ```
+
+---
+![Before](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/Girl.png)
+
+![After](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/15.png)
