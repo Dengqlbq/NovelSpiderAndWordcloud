@@ -34,6 +34,13 @@ python3 Wordcloud.py
 ```
 
 ---
+#### 爬取数据<br>
+![Start](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/3.png)
+
+![ShowData](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/4.png)
+
+![SaveData](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/5.png)
+#### 制作词云<br>
 ![Before](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/Girl.png)
 
 ![After](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/15.png)
