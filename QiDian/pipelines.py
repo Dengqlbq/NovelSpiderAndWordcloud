@@ -14,8 +14,8 @@ class QiDianPipeline(object):
         self.connect = pymysql.connect(
             host='127.0.0.1',
             db='Scrapy_test',
-            user='root',
-            passwd='password',
+            user='Your_User',
+            passwd='Your_pass',
             charset='utf8',
             use_unicode=True)
         self.cursor = self.connect.cursor()
