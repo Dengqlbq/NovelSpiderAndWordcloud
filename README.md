@@ -11,7 +11,7 @@
 6. pillow
 7. macOS 10.12.6
 
-#### 博客地址：http://blog.csdn.net/sinat_34200786/article/details/78090649
+#### Blog：http://blog.csdn.net/sinat_34200786/article/details/78090649
 
 ---
 
@@ -34,15 +34,15 @@ python3 Wordcloud.py
 ```
 
 ---
-### 图片展示：
-#### 爬取数据:<br>
+### Image show：
+#### Collected:<br>
 
 ![Start](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/3.png)
 
 ![ShowData](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/4.png)
 
 ![SaveData](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/5.png)
-#### 制作词云：<br>
+#### Wordcloud：<br>
 
 ![Before](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/Girl.png)
 
