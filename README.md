@@ -34,7 +34,7 @@ python3 Wordcloud.py
 ```
 
 ---
-### Image show：
+### Achievement：
 #### Collected:<br>
 
 ![Start](https://github.com/Dengqlbq/NovelSpiderAndWordcloud/blob/master/Show/3.png)
