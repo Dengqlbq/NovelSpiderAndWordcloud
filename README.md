@@ -12,7 +12,7 @@
 7. macOS 10.12.6
 
 #### Blog：http://blog.csdn.net/sinat_34200786/article/details/78090649
-
+#### Distributed version ：http://blog.csdn.net/sinat_34200786/article/details/78298969
 ---
 
 ### How to use ?
