@@ -2,7 +2,7 @@
 
 ### 目标：爬取起点小说X类型小说前X页的所有小说并将所有简介做成词云
 
-### power by：
+### Power by：
 1. Python 3.6
 2. Scrapy 1.4
 3. pymysql 
